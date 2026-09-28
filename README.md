@@ -20,7 +20,7 @@ project
       --purple-glow: #c084fc;
     }
 
-    * {
+  * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
